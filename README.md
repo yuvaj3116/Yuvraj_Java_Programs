@@ -15,5 +15,15 @@ This repo contains my daily Java learning programs and practice tasks. I'm using
 
 ✅ Java Packages & Access Modifiers
 
-✅ Practice Programs & Tasks performed by me.
+✅ Practice Programs & Tasks performed by me. 
+
+
+💡 Why This Repo?
+-Track my learning journey in Java
+
+-Practice writing clean and efficient code
+
+-Build a solid foundation before moving to frameworks like Spring
+
+-Share with others who are also learning Java
 
