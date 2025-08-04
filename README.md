@@ -42,5 +42,5 @@ Build real-world mini projects / projects in Java.
 🧑‍💻 Author -
 Yuvraj Vijay Shinde.
 Java Learner | Aspiring Full Stack Developer.
-LinkedIn (https://www.linkedin.com/in/yuvraj-shinde-865836313/)
+LinkedIn - (https://www.linkedin.com/in/yuvraj-shinde-865836313/)
 
