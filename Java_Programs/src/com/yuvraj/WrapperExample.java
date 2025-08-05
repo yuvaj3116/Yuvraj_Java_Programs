@@ -6,7 +6,9 @@ public class WrapperExample {
 		
 		Integer obj = Integer.valueOf(a);
 		System.out.println(a);
+		System.out.println(obj);
 		
 	}
 		
 }
+
